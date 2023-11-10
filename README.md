@@ -40,3 +40,12 @@ However, it could also die out.
 - **Any dead cell with exactly three live neighbours becomes a live cell.**
 
 Details: [Conway's Game of Life - Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+### Credits
+[Projection Path Explorer](https://jku-vds-lab.at/publications/2020_tiis_pathexplorer/)
+
+[t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+
+[UMAP](https://arxiv.org/abs/1802.03426)
+
+[PCA](https://arxiv.org/abs/1404.1100)
