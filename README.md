@@ -2,7 +2,9 @@
 Conway's Game of Life is sequential, here high-dimensional states are projected into the two-dimensional space, and connected, furthermore, meta-data is added to create 2-D visualizations.
 
 ### Data Description
-Random games are created on a 30 by 30 grid, and then they evolve over 300 steps. (300 generations)
+52 random games are created on a 30 by 30 grid, and then they evolve over 300 steps. (300 generations)
+
+[See details in the dataset description](https://github.com/matgege/Projection-Space-Exploration/blob/creation/Dataset%20description.pdf)
 
 The game can never stop evolving as in the picture below.
 
