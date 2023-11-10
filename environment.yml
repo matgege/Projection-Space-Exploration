@@ -1,4 +1,4 @@
-name: xai_proj_space
+name: projection_space_exploration
 channels:
   - conda-forge
   - defaults
