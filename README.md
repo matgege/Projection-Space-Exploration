@@ -4,22 +4,22 @@ Conway's Game of Life is sequential, here high-dimensional states are projected 
 ### Projection Figures
 
 #### t-SNE projection for 25 games with 300 steps each
-![t-SNE](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/t-SNE.png)
-![t-SNE](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/t-SNE_initial_cell_count.png)
+![t-SNE](https://github.com/matgege/Projection-Space-Exploration/blob/main/projection_figures/t-SNE.png)
+![t-SNE](https://github.com/matgege/Projection-Space-Exploration/blob/main/projection_figures/t-SNE_initial_cell_count.png)
 
 #### t-SNE projection for 5 games with 300 steps each
-![t-SNE](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/t-SNE_metadata.png)
+![t-SNE](https://github.com/matgege/Projection-Space-Exploration/blob/main/projection_figures/t-SNE_metadata.png)
 
 #### UMAP projection for 25 games with 300 steps each
-![UMAP](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/UMAP.png)
+![UMAP](https://github.com/matgege/Projection-Space-Exploration/blob/main/projection_figures/UMAP.png)
 
 #### PCA projection for 25 games with 300 steps each
-![PCA](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/PCA.png)
+![PCA](https://github.com/matgege/Projection-Space-Exploration/blob/main/projection_figures/PCA.png)
 
 ### Data Description
 52 random games are created on a 30 by 30 grid, and then they evolve over 300 steps. (300 generations)
 
-[See details in the dataset description](https://github.com/matgege/Projection-Space-Exploration/blob/creation/Dataset%20description.pdf)
+[See details in the dataset description](https://github.com/matgege/Projection-Space-Exploration/blob/main/Dataset%20description.pdf)
 
 The game can never stop evolving as in the picture below.
 
