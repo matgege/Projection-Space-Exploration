@@ -2,10 +2,11 @@
 Conway's Game of Life is sequential, here high-dimensional states are projected into the two-dimensional space, and connected, furthermore, meta-data is added to create 2-D visualizations.
 
 ### Projection Figures
+#### t-SNE
 ![t-SNE](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/t-SNE.png)
-
+#### UMAP
 ![UMAP](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/UMAP.png)
-
+#### PCA
 ![PCA](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/PCA.png)
 
 ### Data Description
