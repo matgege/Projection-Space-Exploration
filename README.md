@@ -2,11 +2,18 @@
 Conway's Game of Life is sequential, here high-dimensional states are projected into the two-dimensional space, and connected, furthermore, meta-data is added to create 2-D visualizations.
 
 ### Projection Figures
-#### t-SNE
+
+#### t-SNE projection for 25 games with 300 steps each
 ![t-SNE](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/t-SNE.png)
-#### UMAP
+![t-SNE](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/t-SNE_initial_cell_count.png)
+
+#### t-SNE projection for 5 games with 300 steps each
+![t-SNE](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/t-SNE_metadata.png)
+
+#### UMAP projection for 25 games with 300 steps each
 ![UMAP](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/UMAP.png)
-#### PCA
+
+#### PCA projection for 25 games with 300 steps each
 ![PCA](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/PCA.png)
 
 ### Data Description
