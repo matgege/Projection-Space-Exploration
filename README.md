@@ -1,6 +1,13 @@
 # Projection-Space-Exploration
 Conway's Game of Life is sequential, here high-dimensional states are projected into the two-dimensional space, and connected, furthermore, meta-data is added to create 2-D visualizations.
 
+### Projection Figures
+![t-SNE](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/t-SNE.png)
+
+![UMAP](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/UMAP.png)
+
+![PCA](https://github.com/matgege/Projection-Space-Exploration/blob/creation/projection_figures/PCA.png)
+
 ### Data Description
 52 random games are created on a 30 by 30 grid, and then they evolve over 300 steps. (300 generations)
 
